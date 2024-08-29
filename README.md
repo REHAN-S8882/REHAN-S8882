@@ -2,7 +2,7 @@
 - 👀 I’m interested in the field of data science.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate. 
-- 📫 How to reach me via email.
+- 📫 you can reach me via email.
   
 
 <!---
